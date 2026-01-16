@@ -1,27 +1,24 @@
 # Vehicle Insurance Claim Fraud Detection
 
-## Project Overview
-This project focuses on detecting fraudulent vehicle insurance claims using machine learning and deep learning techniques. It compares an Explainable AI-based Random Forest model with an LSTM neural network.
+## 📌 Introduction
+This project focuses on detecting fraudulent vehicle insurance claims using machine learning and deep learning techniques. The objective is to analyze claim data, identify suspicious patterns, and compare model performance across multiple iterations.
 
-## Features
+## 🚀 Features
 - Data preprocessing and feature encoding
-- Fraud detection using Random Forest (N-XAI)
-- Sequential modeling using LSTM
-- Accuracy comparison across multiple iterations
-- Visualization of model performance
+- Fraud detection using Explainable AI (Random Forest)
+- Deep learning model using LSTM
+- Performance comparison across 21 iterations
+- Accuracy visualization and result storage
 
-## Technologies Used
+## 🧠 Models Used
+- Random Forest Classifier (N-XAI)
+- Long Short-Term Memory (LSTM)
+
+## 🛠️ Technologies
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - TensorFlow / Keras
 - Matplotlib
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
-## Author
-Ramanathan S
+## 📁 Project Structure
